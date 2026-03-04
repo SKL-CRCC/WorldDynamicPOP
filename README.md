@@ -1,6 +1,6 @@
 # WorldDynamicPOP
 
-A two-stage pipeline for generating and spatially downscaling dynamic (time-varying) population grids, combining mobile phone trajectory data with building morphology and land-use information.
+A two-stage pipeline for generating and spatially downscaling dynamic (time-varying) population grids, combining AI-generated trajectory data with building morphology and land-use information.
 
 ## Overview
 
